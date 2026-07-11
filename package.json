@@ -1,1 +1,0 @@
-{"name":"eh-test","private":true,"scripts":{"build":"mkdir -p dist && printf %s \"<!doctype html><h1>escape-hatch build OK</h1>\" > dist/index.html"}}
