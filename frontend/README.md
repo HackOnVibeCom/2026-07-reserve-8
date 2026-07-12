@@ -4,7 +4,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0d5f94&text=Expirova&fontColor=ffffff&fontSize=65&fontAlignY=40&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0d5f94&text=Expirova&fontColor=ffffff&fontSize=65&fontAlignY=40&animation=fadeIn"
   />
 </p>
 
@@ -260,6 +260,11 @@ Notification --> React
 
 ## ⭐ If you like Expirova, consider giving this repository a star!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d5f94&height=120&section=footer"/>
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0d5f94&height=180&section=footer"
+  />
+</p>
 
 </div>
