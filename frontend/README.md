@@ -1,11 +1,10 @@
 
 
 <p align="center">
-
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=0,2,5,10,15&text=Expirova&desc=Scan%20%E2%80%A2%20Track%20%E2%80%A2%20Monitor%20%E2%80%A2%20Prevent%20Waste&fontSize=70&fontColor=ffffff&descSize=22&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0d5f94&text=Expirova&desc=AI-Powered%20Smart%20Expiry%20Management%20System&descAlignY=62&fontSize=70&fontColor=ffffff&descSize=22&animation=fadeIn"
   />
 </p>
 
