@@ -4,7 +4,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0d5f94&text=Expirova&desc=AI-Powered%20Smart%20Expiry%20Management%20System&descAlignY=62&fontSize=70&fontColor=ffffff&descSize=22&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0d5f94&text=Expirova&fontColor=ffffff&fontSize=65&fontAlignY=40&animation=fadeIn"
   />
 </p>
 
