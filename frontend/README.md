@@ -1,3 +1,30 @@
+
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0d5f94&text=Expirova&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Hackathon-Project-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+**AI-Powered Smart Expiry Management System**
+
+*Scan • Track • Monitor • Prevent Waste*
+
+</p>
+
 ---
 
 # ✨ Features at a Glance
