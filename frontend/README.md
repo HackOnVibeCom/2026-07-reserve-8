@@ -4,7 +4,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0d5f94&text=Expirova&fontColor=ffffff&fontSize=65&fontAlignY=40&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0d5f94&text=Expirova&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn"
   />
 </p>
 
@@ -263,7 +263,7 @@ Notification --> React
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0d5f94&height=180&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0d5f94&height=140&section=footer"
   />
 </p>
 
