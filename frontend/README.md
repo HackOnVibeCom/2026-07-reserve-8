@@ -2,7 +2,12 @@
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0d5f94&text=Expirova&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=0,2,5,10,15&text=Expirova&desc=Scan%20%E2%80%A2%20Track%20%E2%80%A2%20Monitor%20%E2%80%A2%20Prevent%20Waste&fontSize=70&fontColor=ffffff&descSize=22&animation=fadeIn"
+  />
+</p>
 
 <p align="center">
 
